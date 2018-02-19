@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Chitin</name>
+  <author>Techmago</author>
+  <url>https://github.com/techmago/rimworld-chitin</url>
+	<targetVersion>0.18.1527</targetVersion>
+  <description>Insects now drop chitin plates!</description>
+</ModMetaData>
