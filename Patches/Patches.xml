@@ -13,7 +13,7 @@
         <xpath>/Defs/ThingDef[defName = "Spelopede"]</xpath>
         <value>
           <butcherProducts>
-            <Chitin>120</Chitin>
+            <Chitin>100</Chitin>
           </butcherProducts>
         </value>
     </Operation>
@@ -21,7 +21,7 @@
         <xpath>/Defs/ThingDef[defName = "Megaspider"]</xpath>
         <value>
           <butcherProducts>
-            <Chitin>160</Chitin>
+            <Chitin>140</Chitin>
           </butcherProducts>
         </value>
     </Operation>
