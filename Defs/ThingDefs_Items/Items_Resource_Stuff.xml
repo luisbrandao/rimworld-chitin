@@ -4,7 +4,7 @@
   <label>Chitin</label>
   <description>Chitin is the most abundant aminopolysaccharide polymer occurring in nature, and is the building material that gives strength to the exoskeletons of insects.</description>
   <graphicData>
-    <texPath>Things/Item/Resource/Chitin3</texPath>
+    <texPath>Things/Item/Resource/Chitin4</texPath>
     <graphicClass>Graphic_Single</graphicClass>
   </graphicData>
   <soundInteract>Metal_Drop</soundInteract>
