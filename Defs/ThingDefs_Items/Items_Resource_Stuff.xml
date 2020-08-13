@@ -44,7 +44,6 @@
       <DoorOpenSpeed>1.1</DoorOpenSpeed>
       <MeleeWeapon_CooldownMultiplier>0.8</MeleeWeapon_CooldownMultiplier>
     </statFactors>
-    <smeltable>false</smeltable>
   </stuffProps>
 </ThingDef>
 </Defs>
