@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <!-- https://gist.github.com/Zhentar/4a1b71cea45b9337f70b30a21d868782 -->
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName = "Megascarab"]</xpath>
+        <value>
+          <butcherProducts>
+            <TECH_Leather_Chitin>10</TECH_Leather_Chitin>
+          </butcherProducts>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName = "Spelopede"]</xpath>
+        <value>
+          <butcherProducts>
+            <TECH_Leather_Chitin>20</TECH_Leather_Chitin>
+          </butcherProducts>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/ThingDef[defName = "Megaspider"]</xpath>
+        <value>
+          <butcherProducts>
+            <TECH_Leather_Chitin>30</TECH_Leather_Chitin>
+          </butcherProducts>
+        </value>
+    </Operation>
+</Patch>
