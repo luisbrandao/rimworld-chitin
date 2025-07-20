@@ -1,0 +1,27 @@
+<Defs>
+<ThingDef ParentName="LeatherBase">
+  <defName>TECH_Leather_Chitin</defName>
+  <label>chitin</label>
+  <description>Chitin is the most abundant aminopolysaccharide polymer occurring in nature, and is the building material that gives strength to the exoskeletons of insects.</description>
+  <graphicData>
+    <texPath>Things/Item/Resource/Chitin5</texPath>
+    <graphicClass>Graphic_Single</graphicClass>
+  </graphicData>
+  <statBases>
+    <MarketValue>2.1</MarketValue>
+    <StuffPower_Armor_Sharp>1.12</StuffPower_Armor_Sharp>
+    <StuffPower_Armor_Blunt>1.01</StuffPower_Armor_Blunt>
+    <StuffPower_Armor_Heat>1.05</StuffPower_Armor_Heat>
+    <StuffPower_Insulation_Cold>3</StuffPower_Insulation_Cold>
+    <StuffPower_Insulation_Heat>3</StuffPower_Insulation_Heat>
+  </statBases>
+  <stuffProps>
+    <commonality>0.05</commonality>
+    <color>(128,85,0)</color>
+    <statFactors>
+      <MaxHitPoints>1.4</MaxHitPoints>
+      <WorkToMake>1.1</WorkToMake>
+    </statFactors>
+  </stuffProps>
+</ThingDef>
+</Defs>
